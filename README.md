@@ -1,7 +1,8 @@
 # Atividade_Haskell
 
-Disciplina: Paradigmas de Programação
-Alunos: Rayssa Mirelle Silva Oliveira  e   Everson Eduardo da Silva Andrade
+## Disciplina: Paradigmas de Programação
 
-A resolusão da Atividae encontra em PDF.
+## Alunos: Rayssa Mirelle Silva Oliveira  e   Everson Eduardo da Silva Andrade
+
+A resolusão da Atividae encontra em PDF com a descrição  "Haskell Mini-Rayssa Mirelle e everson.pdf"
 
